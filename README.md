@@ -19,7 +19,7 @@ Designed to replicate the classic Windows 10 desktop experience with smooth anim
 <!-- ABOUT THE PROJECT -->
 ## 📖 About The Project
 
-<img src="Windows%2010%20UI/desktop.jpg" alt="Windows 10 UI Desktop Screenshot" width="100%" />
+<img src="Window%2010%20UI/desktop.jpg" alt="Windows 10 UI Desktop Screenshot" width="100%" />
 
 The **Windows 10 UI** project recreates the familiar Windows 10 interface directly inside the browser.  
 This includes the **taskbar, start menu, desktop icons, windows, animations, and system UI elements**, giving users a nostalgic and interactive desktop experience.
