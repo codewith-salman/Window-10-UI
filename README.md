@@ -1,6 +1,5 @@
 <div id="top"></div>
 
-<br />
 <div align="center">
 
 ## 🪟 Windows 10 UI  
@@ -38,8 +37,7 @@ Perfect for:
 - Open/close/minimize window animations  
 - Smooth transitions and shadow effects  
 - Realistic UI spacing, colors, and structure  
-- Lightweight and optimized for performance  
-- Easy to customize and extend  
+- Lightweight and optimized for performance   
 
 ---
 
@@ -47,7 +45,6 @@ Perfect for:
 
 * [HTML5](https://html5.org/)  
 * [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 
 ---
 
