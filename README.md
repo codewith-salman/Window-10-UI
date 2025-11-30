@@ -24,7 +24,6 @@ It serves as an excellent example of **desktop UI simulation, window interaction
 Perfect for:
 - Practicing advanced layout and UI recreation  
 - Building interactive desktop-style web interfaces  
-- Showcasing CSS + JavaScript component design  
 - Portfolio projects inspired by popular OS designs  
 
 ---
