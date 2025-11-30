@@ -3,13 +3,8 @@
 <br />
 <div align="center">
 
-<!-- 🔥 LOGO -->
-<img src="https://raw.githubusercontent.com/salman-webdevexp/assets/main/logo.png" alt="Windows 10 UI Logo" width="120" />
-
-<br /><br />
-
 ## 🪟 Windows 10 UI  
-A clean, modern, and interactive **Windows 10 User Interface Clone** built using HTML, CSS, and JavaScript.  
+A clean, modern, and interactive **Windows 10 User Interface Clone** built using HTML, CSS.  
 Designed to replicate the classic Windows 10 desktop experience with smooth animations, responsive components, and functional UI elements.
 
 </div>
