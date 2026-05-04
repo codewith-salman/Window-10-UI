@@ -4,9 +4,9 @@
 <div align="center">
 
 <!-- 🔰 BADGES -->
-![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/windows-10-ui)
-![GitHub stars](https://img.shields.io/github/stars/codewith-salman/windows-10-ui?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewith-salman/windows-10-ui?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/Window-10-UI)
+![GitHub stars](https://img.shields.io/github/stars/codewith-salman/Window-10-UI?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewith-salman/Window-10-UI?style=social)
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen?style=for-the-badge&logo=vercel)](https://window-10-ui.vercel.app/)
 
@@ -18,7 +18,7 @@
 <br />
 
 <!-- 🔰 PROJECT LOGO -->
-<img src="Window%2010%20UI/desktop.jpg" alt="Windows 10 UI Logo" width="120"/>
+<img src="Window%2010%20UI/images/favicon.png" alt="Windows 10 UI Logo" width="120"/>
 
 <br />
 <br />
