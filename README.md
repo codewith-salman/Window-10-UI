@@ -69,8 +69,7 @@ Ideal for:
 - Fully responsive Windows 10–style layout  
 - Interactive taskbar and start menu  
 - Clickable desktop icons  
-- Open/close/minimize window animations  
-- Smooth transitions and shadow effects  
+- Open/close/minimize window animations    
 - Realistic UI spacing, colors, and structure  
 - Lightweight and optimized for performance  
 
