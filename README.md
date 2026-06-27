@@ -71,7 +71,6 @@ Ideal for:
 - Clickable desktop icons  
 - Open/close/minimize window animations    
 - Realistic UI spacing, colors, and structure  
-- Lightweight and optimized for performance  
 
 ---
 
