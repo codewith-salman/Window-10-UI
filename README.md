@@ -21,7 +21,6 @@
 <img src="Window%2010%20UI/images/favicon.png" alt="Windows 10 UI Logo" width="120"/>
 
 <br />
-<br />
 
 <h1 align="center">🪟 Windows 10 UI</h1>
 
@@ -63,8 +62,6 @@ Ideal for:
 - Building interactive desktop-style web interfaces  
 - Portfolio projects inspired by popular OS designs  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -77,8 +74,6 @@ Ideal for:
 - Realistic UI spacing, colors, and structure  
 - Lightweight and optimized for performance  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
@@ -86,8 +81,6 @@ Ideal for:
 - **HTML5**  
 - **CSS3**  
 - **JavaScript (Vanilla)**  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
